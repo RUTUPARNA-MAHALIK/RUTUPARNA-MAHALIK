@@ -2,9 +2,11 @@
 <h3 align="center">Crafting Digital Experiences | Web Dev Enthusiast.</h3>
 
 <img align="right" alt="coding" width="400"
-src="https://github.com/RUTUPARNA-MAHALIK/RUTUPARNA-MAHALIK/assets/107238378/f350462c-285a-417f-b2a0-e14919c79804/giphy.gif">
+src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
 
-- 🌱 I’m currently learning **Javascript,php with web design .**
+- 🔭 I’m currently studying **Computer Science and Engineering**
+
+- 🌱 I’m currently learning **Web design & Web development.**
 
 - 👯 I’m looking to collaborate on **full-stack web development.**
 
