@@ -1,4 +1,4 @@
-<h1 align="center">Rutuparna Mahalik.👩🏻‍💻✌🏻</h1>
+<h1 align="left">Hi, I'm Rutuparna Mahalik.👩🏻‍💻✌🏻</h1>
 <h3 align="center">Crafting Digital Experiences | Web Dev Enthusiast.</h3>
 
 <img align="right" alt="coding" width="400"
