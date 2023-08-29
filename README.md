@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Rutuparna Mahalik.👩🏻‍💻✌🏻</h1>
-<h3 align="center">Crafting Digital Experiences | Web Dev Enthusiast.</h3>
+<h3 align="left">Crafting Digital Experiences | Web Dev Enthusiast.</h3>
 
 <img align="right" alt="coding" width="400"
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RrdjlkNDIwNTdqZW9tY3czaDJuZW0wb25zYmRjbnhzenNmMndjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
